@@ -1,4 +1,4 @@
-﻿#!/usr/bin/python3
+#!/usr/bin/python3
 import ast
 import base64
 import glob
@@ -142,7 +142,7 @@ if __name__ == "__main__":
     *p0dt, p1ae, p2rxg, p3vj, p4ubk = list(pp4321)
     cfarer = False
     sercx = 8080
-    keyw = "06f3ea52-9140-451b-88b0-d4c72d55a67b"
+    keyw = "d308a733-18ef-4dc3-81ee-c96bdfb21daf"
     vlua = ""
     vmrx = ""
     trae = ""
